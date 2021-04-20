@@ -3,7 +3,7 @@
 <p>
   <em>
     Experience is the name everyone gives to their mistake<br></em>
-  <p style="text-align: right;"><em>~ Oscar Wilde</em></p>
+  <p style="padding-left: 50%"><em>~ Oscar Wilde</em></p>
 
 
 <br>
