@@ -1,16 +1,20 @@
-### Hi there 👋
+# Dixit Kumawat&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<!--
-**dixit-kmt/dixit-kmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <em>
+    B.Tech CSE Student <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dixit-kmt&style=flat-square" alt="dixit-kmt" /><br></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" /></p>
+<br>
+
+  <a href="https://twitter.com/KumawatDixit">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:dixitkumawat09@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
