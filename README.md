@@ -1,4 +1,4 @@
-# Dixit Kumawat&nbsp;<img src="https://c.tenor.com/Trhb6DI_7I0AAAAj/mechanical-legs-researching.gif" width=30px></p>
+# Dixit Kumawat&nbsp;<img src="https://c.tenor.com/Trhb6DI_7I0AAAAj/mechanical-legs-researching.gif" width=45px></p>
 
 <p>
   <em>
