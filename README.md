@@ -1,4 +1,4 @@
-# Dixit Kumawat&nbsp;<img src="https://c.tenor.com/Trhb6DI_7I0AAAAj/mechanical-legs-researching.gif" width=5%></p>
+# Dixit Kumawat&nbsp;<img src="https://c.tenor.com/Trhb6DI_7I0AAAAj/mechanical-legs-researching.gif" width=30px></p>
 
 <p>
   <em>
@@ -40,22 +40,22 @@
 <img align='left' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vertical_red_bar.svg/1200px-Vertical_red_bar.svg.png" alt='line' width='4'>
 
   <a href="https://twitter.com/KumawatDixit">
-    <img align="left" alt="Twitter logo" width="3%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Twitter logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   
   <a href="mailto:dixitkumawat09@gmail.com">
-    <img align="left" alt="Gmail logo" width="3%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Gmail logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
   <a href="https://www.instagram.com/_.dixit09._/">
-    <img align="left" alt="Instagram Logo" width="3%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Instagram Logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   
   <a href="https://github.com/dixit-kmt">
-    <img align='left' src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="3%">
+    <img align='left' src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34px">
   </a>
   
   <a href="https://www.hackerrank.com/dixit_0901/">
-    <img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="3%">
+    <img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="34px">
   </a>
   </p>
