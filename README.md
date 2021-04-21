@@ -17,11 +17,12 @@
   vertical-align:middle;'>
   
   <img  src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" />
-</div>
-
-<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark"/>
+  
+</div>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" />
+<div>
+  
 </div>
 
 <br>
