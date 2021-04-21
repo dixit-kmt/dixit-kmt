@@ -10,10 +10,14 @@
 
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dixit-kmt&style=flat-square" alt="dixit-kmt" /><br></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" /></p>
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark"/>
+
+
+
+<p align='bottom'>
+<img align='left' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vertical_red_bar.svg/1200px-Vertical_red_bar.svg.png" alt='line' width='4'>
 
   <a href="https://twitter.com/KumawatDixit">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
@@ -28,9 +32,10 @@
   </a>
   
   <a href="https://github.com/dixit-kmt">
-    <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">
+    <img align='left' src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">
   </a>
   
   <a href="https://www.hackerrank.com/dixit_0901/">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">
+    <img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="34">
   </a>
+  </p>
