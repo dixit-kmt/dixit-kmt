@@ -20,11 +20,12 @@
   text-align:center;
   vertical-align:middle;'>
   
-  <img  src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" width=50%>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark" width=45% style="padding-left: 2%">
+  <img  src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" width=50% >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-kmt&theme=dark&hide_langs_below=1" width=45% style="padding-left: 2%">
+  
   
 </div>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" width=97% />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark" width=97% >
 <div>
   
 </div>
