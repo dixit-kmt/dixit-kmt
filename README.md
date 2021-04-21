@@ -10,8 +10,14 @@
 
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dixit-kmt&style=flat-square" alt="dixit-kmt" /><br></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" />
+<div style='width:500px;
+  background-color:yellow;
+  text-align:center;
+  vertical-align:middle;'>
+  
+  <img  src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" />
+</div>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark"/>
 
 
