@@ -10,6 +10,7 @@
 
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dixit-kmt&style=flat-square" alt="dixit-kmt" /><br></p>
+
 <div style='width:500px;
   background-color:yellow;
   text-align:center;
@@ -18,11 +19,15 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dixit-kmt&theme=dark" />
 </div>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark"/>
+
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark"/>
+</div>
+
+<br>
 
 
-
-<p align='bottom'>
+<p >
 <img align='left' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vertical_red_bar.svg/1200px-Vertical_red_bar.svg.png" alt='line' width='4'>
 
   <a href="https://twitter.com/KumawatDixit">
