@@ -16,11 +16,21 @@
 <br>
 
   <a href="https://twitter.com/KumawatDixit">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
+  
   <a href="mailto:dixitkumawat09@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  
   <a href="https://www.instagram.com/_.dixit09._/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  
+  <a href="https://github.com/dixit-kmt">
+    <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">
+  </a>
+  
+  <a href="https://www.hackerrank.com/dixit_0901/">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">
   </a>
