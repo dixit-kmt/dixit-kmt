@@ -56,8 +56,6 @@
   <a href="https://github.com/dixit-kmt">
     <img align='left' src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34px">
   </a>
-  
-  <a href="https://www.hackerrank.com/dixit_0901/">
-    <img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="34px">
-  </a>
+ 
+
   </p>
