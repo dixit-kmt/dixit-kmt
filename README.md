@@ -59,7 +59,3 @@
     <img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="34px">
   </a>
   </p>
-  
-  <div>
-  <img src='https://skyline.martinwoodward.vercel.app/?username=dixit-kmt'>
-</div>
