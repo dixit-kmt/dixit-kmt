@@ -27,9 +27,7 @@
   
 </div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark" width=97% >
-<div>
-  
-</div>
+
 
 <div>
     <img src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" width=97%>
@@ -61,3 +59,7 @@
     <img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="34px">
   </a>
   </p>
+  
+  <div>
+  <img src='https://skyline.martinwoodward.vercel.app/?username=dixit-kmt'>
+</div>
