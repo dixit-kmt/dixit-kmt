@@ -1,4 +1,5 @@
-# Dixit Kumawat&nbsp;<img src="images/nope.gif" width=45px></p>
+
+<h1 style='font-size=80px;'>Dixit Kumawat&nbsp;<img src="images/nope.gif" width=70px></h1>
 
 <p>
   <em>
