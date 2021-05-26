@@ -1,14 +1,20 @@
 # Dixit Kumawat&nbsp;<img src="images/nope.gif" width=70px></p>
-
-<p>
+<div style="background-color: #b3c6b9;">
+<p style="background-color: #b3c6b9;">
   <em>
     Experience is the name everyone gives to their mistake<br></em>
  <em style="
     padding-left: 50%;
 ">~ Oscar Wilde</em>
+  
+  <div>
+    <img src="images/header.png" width=100%>
+  </div>
   <div>
     <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width=80% height=60%>
   </div>
+  
+  
   
 
 
@@ -59,3 +65,4 @@
     <img align='left' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="34px">
   </a>
   </p>
+  </div>
