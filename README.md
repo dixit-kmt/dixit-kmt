@@ -1,12 +1,3 @@
-# Dixit Kumawat&nbsp;<img src="images/nope.gif" width=70px></p>
-<div style="background-color: #b3c6b9;">
-<p style="background-color: #b3c6b9;">
-  <em>
-    Experience is the name everyone gives to their mistake<br></em>
- <em style="
-    padding-left: 50%;
-">~ Oscar Wilde</em>
-  
   <div>
     <img src="images/header.png" width=100%>
   </div>
