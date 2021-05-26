@@ -1,12 +1,6 @@
 <div>
      <img src="images/header.png" width=100%>
-   </div>
-  <div>
-    <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width=80% height=60%>
-  </div>
-  
-  
-  
+   </div>  
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dixit-kmt&style=flat-square" alt="dixit-kmt"/><br></p>
 <div style='width:500px;
