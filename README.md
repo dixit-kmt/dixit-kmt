@@ -1,5 +1,5 @@
 <div>
-     <img src="images/head.png" width=100%>
+     <img src="images/welcome.png" width=100%>
    </div>  
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dixit-kmt&style=flat-square" alt="dixit-kmt"/><br></p>
