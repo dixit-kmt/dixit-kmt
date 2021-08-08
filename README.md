@@ -3,21 +3,19 @@
    </div>  
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dixit-kmt&style=flat-square" alt="dixit-kmt"/><br></p>
-<div style='width:500px;
-  background-color:yellow;
-  text-align:center;
-  vertical-align:middle;'>
+
+    
+## Stats
+   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit"> </p>
+   
+## Languages
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-kmt&layout=compact" > </p>
+    
+
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-kmt&layout=compact" width=45% style="padding-left: 2%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&count_private=true&theme=dark" alt="Dixit" width=50% style="padding-bottom: 8%;">
-  
-  
-  
-</div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-kmt&theme=dark" width=97% >
 <div>
     <img src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" width=97%>
-  </div>
+</div>
 <hr>
 <p >
 <img align='left' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vertical_red_bar.svg/1200px-Vertical_red_bar.svg.png" alt='line' width='4'>
