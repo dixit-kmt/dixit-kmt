@@ -45,9 +45,8 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dixitt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dixitt" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/dixitt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dixitt" /></a><a href="https://ko-fi.com/dixitkumawat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dixitkumawat" /></a></p><br><br>
 <div>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dixit-kmt&show_icons=true&locale=en&layout=compact" alt="dixit-kmt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&locale=en" alt="dixit-kmt" /></p><div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixit-kmt&show_icons=true&locale=en" alt="dixit-kmt" /></p>
+<div>
