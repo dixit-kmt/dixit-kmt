@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://www.dixitkumawat.live/](https://www.dixitkumawat.live/)
+- 👨‍💻 All of my projects are available at [https://www.dixitkumawat.tech/](https://www.dixitkumawat.tech/)
 
 - 📫 How to reach me **dixitkumawat09@gmail.com**
 
-- 📄 Know about my experiences [resume.pdf](https://www.dixitkumawat.live/resume.pdf)
+- 📄 Know about my experiences [resume.pdf](https://www.dixitkumawat.tech/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
